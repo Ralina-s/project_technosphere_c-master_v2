@@ -17,14 +17,4 @@ private:
     int year, month, day, hour, minute;
 };
 
-class Day {
-public:
-    Day(Date &new_date): date(new_date) {}
-    void set_date(Date &new_date);
-    Date get_date();
-private:
-    Date date;
-    //Case_List cases;
-};
-
 #endif //PROJECT_TECHNOSPHERE_C_V2_DATE_H

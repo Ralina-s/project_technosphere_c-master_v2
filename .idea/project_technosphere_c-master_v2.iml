@@ -6,10 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/cost.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/case.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/enums.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/case.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/date.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/enums.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cost.h" isTestSource="false" />
     </content>
